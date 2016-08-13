@@ -6,10 +6,4 @@
 
 **Thoughts:** First steps learning NodeJS with ```learnyounode``` and Grafikart (on YouTube). I'm struggling but I'm going slowly, I need to practice Javascript more & more.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [A ```cat file | wc -l``` like program for #learnyounode (Asynch version)](https://gist.github.com/Fcmam5/d3eb594ec7ac41fb962c6c5877b12c7c)
